@@ -1,0 +1,500 @@
+   14  winpty gh.exe auth login
+   15  auth login --with-token < .githubtoken --scopes repo,read:org:
+   16  auth login --with-token < .githubtoken --scopes repo,read:org: exit code:1
+   17  gh auth login --with-token < .githubtoken --scopes repo,read:org: 
+   18  winpty gh.exe auth login
+   19  git auth login
+   20  gh creatte --fill
+   21  gh alias
+   22  gh run
+   23  cd NLW
+   24  ls
+   25  cd link-project
+   26  cd
+   27  cd link-project
+   28  cd link-project
+   29  ls
+   30  code
+   31  code
+   32  ssh-keygen -t ed25519 -C "your_email@example.com"
+   33  ssh-keygen -t ed25519 -C nadiduno@gmail.com
+   34  ssh-keygen -t ed25519 -C nadiduno@gmail.com
+   35  eval "$(ssh-agent -s)"
+   36  ssh-add ~/.ssh/id_ed25519
+   37  code
+   38  code
+   39  cd NLW
+   40  ls
+   41  mkdir linknadiduno
+   42  ls
+   43  cd linknadiduno
+   44  touch index.html
+   45  mkdir src
+   46  styless.css
+   47  touch styles.css
+   48  ls
+   49  git init
+   50  code
+   51  cd NLW
+   52  ls
+   53  cd ignite
+   54  ls
+   55  cd event-platform
+   56  code
+   57  code
+   58  cd NLW
+   59  node -v
+   60  npm -v
+   61  npm create vite@latest
+   62  cd event-plataform
+   63  code
+   64  npm create vite@latest
+   65  cd event-project
+   66  ls
+   67  code
+   68  cd NLW
+   69  npm create vite@lastest
+   70  npm create vte@latest
+   71  npm create vite@latest
+   72  cd cursos-project
+   73  ls
+   74  code
+   75  code .
+   76  cd NLW
+   77  ls
+   78  cd cursos-project
+   79  code .
+   80  code 
+   81  ls
+   82  cd NLW
+   83  ls
+   84  cd linknadiduno
+   85  code .
+   86  cd Mundo
+   87  mkdir Mundo
+   88  cd Mundo
+   89  mkdir Venezuela
+   90  cd Venezuela
+   91  mkdir Aragua
+   92  mkdir Falcon
+   93  mkdir Miranda
+   94  ls
+   95  cd Miranda
+   96  mkdir Chacao
+   97  touch index.html
+   98  mkdir Mundo
+   99  cd Mundo
+  100  mkdir Venezuela
+  101  cd Venezuela
+  102  mkdir Aragua
+  103  mkdir Falcon
+  104  mkdir Miranda
+  105  ls
+  106  cd Miranda
+  107  mkdir Chacao
+  108  cd Chacao
+  109  touch index.html
+  110  ls
+  111  mkdir Mundo
+  112  cd Mundo
+  113  mkdir Venezuela
+  114  cd Venezuela
+  115  mkdir Aragua
+  116  mkdir Falcon
+  117  mkdir Miranda
+  118  ls
+  119  cd Miranda
+  120  mkdir Chacao
+  121  mkdir Mundo
+  122  cd Mundo
+  123  mkdir Venezuela
+  124  cd Venezuela
+  125  mkdir Aragua
+  126  mkdir Falcon
+  127  mkdir Miranda
+  128  cd Miranda
+  129  mkdir Chacao
+  130  cd Chacao
+  131  touch index.html
+  132  ls
+  133  pip install streamlit
+  134  streamlit run codigoBase.py
+  135  streamlit run <codigo>.py
+  136  cd NLW
+  137  ls
+  138  mkdir graficoiterativos-project
+  139  ls
+  140  cd graficoiterativos-project
+  141  cd NLW
+  142  cd graficoiterativo-project
+  143  touch codigobase.py
+  144  touch requirements.txt
+  145  code .
+  146  cd NLW
+  147  cd graficoiteratico-project
+  148  cd graficoiterativo-project
+  149  streamlit run codigoBase.py
+  150  pip install pandas
+  151  pip install plotly==5.8.0
+  152  python --version
+  153  python --v
+  154  python -v
+  155  python --version
+  156  pip install pandas
+  157  pip install plotly==5.9.0
+  158  python.exe -m pip install --upgrade pip
+  159  pip install streamlit
+  160  pip install streamlit
+  161  streamlit run codigobase.py
+  162  cd NLW
+  163  cd graficoiterativo-project
+  164  streamlit run codigobase.py
+  165  streamlit run codigobase.py
+  166  code .
+  167  cd NLW
+  168  cd graficoiterativo-project
+  169  streamlit run cadigobase.py
+  170  streamlit run codigobase.py
+  171  cd NLW
+  172  mkdir coffee-project
+  173  cd coffee-project
+  174  touch index.html
+  175  code .
+  176  cd NLW
+  177  npm create vite@latest
+  178  cd event-project
+  179  code .
+  180  ls
+  181  mkdir project
+  182  cd project
+  183  mkdir grafics-project
+  184  touch grafic.py
+  185  cd grafics-project
+  186  ls
+  187  touch graficointeritivo.py
+  188  ls
+  189  code .
+  190  cd NLW
+  191  cd event-project
+  192  code .
+  193  start "" /w <path where SSMS-Setup-ENU.exe file is located> /Quiet SSMSInstallRoot=<path where you want to install SSMS>
+  194  start "" /w <path where SSMS-Setup-ENU.exe file is located> /Quiet SSMSInstallRoot=<path where you want to install SSMS>
+  195  cd NLW
+  196  ls
+  197  touch nadi.txt
+  198  ls
+  199  mv nadi.txt coffee-project
+  200  ls
+  201  cd coffee-project
+  202  ls
+  203  ls
+  204  mkdir project
+  205  ls
+  206  cd project
+  207  ls
+  208  mkdir Mundo
+  209  mkdir Venezuela
+  210  ls
+  211  mv Venezuela Mundo
+  212  ls
+  213  cd Mundo
+  214  ls
+  215  mkdir Casa
+  216  cd Casa
+  217  touch Familia.txt
+  218  clear
+  219  cd ..
+  220  cd ..
+  221  ls
+  222  ls
+  223  cd Project
+  224  clear
+  225  mkdir Mundo
+  226  cd Mundo
+  227  mkdir Venezuela
+  228  cd Venezuela
+  229  mkdir Casa
+  230  touch Familia.txt
+  231  ls
+  232  mv Familia.txt Casa
+  233  ls
+  234  cd Casa
+  235  ls
+  236  ls
+  237  ls
+  238  cd Project
+  239  clear
+  240  mkdir Mundo
+  241  cd Mundo
+  242  mkdir Venezuela
+  243  cd Venezuela
+  244  mkdir Casa
+  245  touch Familia
+  246  ls
+  247  ls
+  248  cd Project
+  249  clear
+  250  mkdir Mundo
+  251  cd Mundo
+  252  mkdir Venezuela
+  253  cd Venezuela
+  254  mkdir Casa
+  255  touch Familia.txt
+  256  ls
+  257  mv Familia.txt Casa
+  258  ls
+  259  cd Casa
+  260  ls
+  261  ls
+  262  clear
+  263  ls
+  264  cd Project
+  265  clear
+  266  mkdir Mundo
+  267  cd Mundo
+  268  mkdir Venezuela
+  269  cd Venezuela
+  270  mkdir Casa
+  271  ls
+  272  cd Project
+  273  clear
+  274  mkdir Mundo
+  275  clear
+  276  ls
+  277  cd Project
+  278  clear
+  279  mkdir Mundo
+  280  cd Mundo
+  281  mkdir Venezuela
+  282  cd Venezuela
+  283  mkdir Casa
+  284  ls
+  285  cd Project
+  286  clear
+  287  mkdir Mundo
+  288  cd Mundo
+  289  mkdir Venezuela
+  290  cd Venezuela
+  291  mkdir casa
+  292  touch Familia.txt
+  293  ls
+  294  mv Familia.txt Casa
+  295  ls
+  296  cd casa
+  297  ls
+  298  ls
+  299  cd Project
+  300  clear
+  301  mkdir Mundo
+  302  cd Mundo
+  303  mkdir Venezuela
+  304  cd Venezuela
+  305  mkdir Casa
+  306  touch Familia.txt
+  307  ls
+  308  mv Familia.txt Casa
+  309  ls
+  310  cd Casa
+  311  ls
+  312  ls
+  313  cd Project
+  314  clear
+  315  mkdir Mundo
+  316  cd Mundo
+  317  mkdir Venezuela
+  318  cd Venezuela
+  319  mkdir Casa
+  320  touch Familia.txt
+  321  ls
+  322  mv Familia.txt Casa
+  323  ls
+  324  cd Casa
+  325  ls
+  326  code
+  327  cd NLW
+  328  ls
+  329  cd coffee-project
+  330  ls
+  331  code .
+  332  cd Project
+  333  mkdir vendas-project
+  334  cd vendas-project
+  335  touch index.html
+  336  touch dados.py
+  337  mkdir src
+  338  code .
+  339  cd project
+  340  cd satisfacaoBank-project
+  341  ls
+  342  cd sastifacaoBank-project
+  343  code .
+  344  cd project
+  345  mkdir searchBank-project
+  346  cd searchBank-project
+  347  touch inde.html
+  348  cd project
+  349  mkdir searchBank-project
+  350  touch index.html
+  351  code .
+  352  ls
+  353  cd Project
+  354  mkdir searchBank-project
+  355  ls
+  356  cd project
+  357  clear
+  358  mkdir searchBank-project
+  359  cd searchBanck-project
+  360  ls
+  361  cd Project
+  362  clear
+  363  ls
+  364  cd Project
+  365  mkdir seachBank-project
+  366  clear
+  367  mkdir searchBank-project
+  368  cd searchBank-project
+  369  touch index.html
+  370  ls
+  371  code .
+  372  ls
+  373  ls 
+  374  cd Project
+  375  mkdir searchBank-project
+  376  cd searchBank-project
+  377  touch index.html
+  378  ls
+  379  code .
+  380  ls
+  381  cd Project
+  382  mkdir searchBank
+  383  cd searchBank
+  384  touch index.html
+  385  ls
+  386  code .
+  387  ls
+  388  cd Project
+  389  mkdir ejemplo
+  390  cd ejemplo
+  391  touch index.html
+  392  ls
+  393  git init
+  394  git status
+  395  git add .
+  396  git commit -m "first commit"
+  397  gh repo create
+  398  gh repo create
+  399  gh repo create
+  400  gh repo create
+  401  ls
+  402  cd Project
+  403  mkdir miprojecto
+  404  cd miprojecto
+  405  touch index.html
+  406  touch grafico.py
+  407  code .
+  408  cd NLW
+  409  ls
+  410  cd event-project
+  411  ls
+  412  code .
+  413  cd Project
+  414  ls
+  415  cd graficoiterativo-project
+  416  code .
+  417  cd ..
+  418  ls
+  419  cd graficopython-project
+  420  code .
+  421  cd NLW
+  422  ls
+  423  cd event-project
+  424  ls
+  425  code .
+  426  cd NLW
+  427  ls
+  428  cd portfolio-project
+  429  ls
+  430  code .
+  431  cd NLW
+  432  cd 21daycode
+  433  cd NLw
+  434  mkdir 21daycode
+  435  cd
+  436  touch index.html
+  437  code .
+  438  cd NLW
+  439  mkdir 21daycode
+  440  cd mkdir21daycode
+  441  cd NLW
+  442  cd NLW
+  443  mkdir 21daycode
+  444  cd 21daycode
+  445  touch index.html
+  446  git init
+  447  git add.
+  448  git commit -m "21DayCode"
+  449  git repo create
+  450  cd NLW
+  451  cd NLW
+  452  mkdir 21daycode
+  453  cd 21daycode
+  454  touch index.html
+  455  code .
+  456  cd NLW
+  457  mkdir 21daycode
+  458  cd 21daycode
+  459  touch index.html
+  460  code .
+  461  cd NLW
+  462  mkdir 21daycode
+  463  cd NLW
+  464  mkdir 21daycode
+  465  cd 21daycode
+  466  tuch index.html
+  467  cd NLW
+  468  mkdir 21daycode
+  469  cd 21daycode
+  470  touch index.html
+  471  code .
+  472  git init 
+  473  cd NLW
+  474  ls
+  475  cd portfolio-project
+  476  code .
+  477  cd NLW
+  478  ls
+  479  cd 21daycode
+  480  code .
+  481  cd ..
+  482  npm -v
+  483  cd NWL
+  484  cd LNW
+  485  cd NLW
+  486  npm create vite@latest
+  487  cd ..
+  488  ls
+  489  npm create vite@latest
+  490  cd 21daycode-project
+  491  code .
+  492  cd NLW
+  493  cd 21daycode-project
+  494  ls
+  495  code .
+  496  cd NLE
+  497  cd NLW
+  498  LS
+  499  cd 21daycode-project
+  500  code .
+  501  cd project
+  502  git clone https://github.com/nadiduno/DataBase-Bootcamp.git
+  503  ls
+  504  cd Data-Bootcamp
+  505  cd DataBase-Bootcamp
+  506  touch backend-note.txt
+  507  cat > backend-note.txt
+  508  git add.
+  509  git status
+  510  git add .
+  511  git commit -m "add file"
+  512  git push origin main
+  513  history > histryCommand.txt
