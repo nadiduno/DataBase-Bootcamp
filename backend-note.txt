@@ -1,0 +1,6 @@
+Um desenvolvedor Back-End é o ponte entre a base de dados e o navegador.
+
+É quem trabalho do lado do servidor, atendendo aos requerimentos do usuario.
+
+Trabalha com regras de negocios, validação e garantias de um ambiente API
+
